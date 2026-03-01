@@ -41,7 +41,7 @@
 <font size="6">__Main Linux Tools__</font>
 
 [<img src="https://static.techspot.com/images2/downloads/topdownload/2017/05/jtr.png" alt="jhonn" width="45"/>](https://en.wikipedia.org/wiki/John_the_Ripper)
-[<img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="hydra" width="45"/>](https://www.kali.org/tools/hydra/) [<img src="https://dashboard.snapcraft.io/site_media/appmedia/2022/08/metasploit-framework-logo.svg.png" alt="msf" width="45"/>](https://he.wikipedia.org/wiki/Metasploit) [<img src="https://w7.pngwing.com/pngs/548/381/png-transparent-burp-suite-alt-macos-bigsur-icon.png" alt="bs" width="40"/>](https://he.wikipedia.org/wiki/Burp_Suite) 
+[<img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="hydra" width="45"/>](https://www.kali.org/tools/hydra/) [<img src="https://dashboard.snapcraft.io/site_media/appmedia/2022/08/metasploit-framework-logo.svg.png" alt="msf" width="45"/>](https://he.wikipedia.org/wiki/Metasploit) [<img src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F3053%2FPNG%2F512%2Fburp_suite_macos_bigsur_icon_190319.png&id=190319&pack_or_individual=pack" alt="bs" width="40"/>](https://he.wikipedia.org/wiki/Burp_Suite) 
 
 
 
